@@ -29,10 +29,6 @@ Create a custom bouquet by choosing its size, flower varieties, colours, and an 
 | `bag.html` | Your bag and WhatsApp checkout |
 | `poster-view.html` | The bouquet poster and bulk-gifting flyer |
 
-## 🚀 Open the shop
-
-No setup or installation needed: open `index.html` in a browser. Google Fonts need an internet connection; fallback fonts are included.
-
 ## 🧰 Under the petals
 
 - `catalog.js` — collection and product details
